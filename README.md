@@ -1,2 +1,2 @@
 # virtual-science
-VIrtual labs for Learning Science
+Virtual labs for Learning Science
